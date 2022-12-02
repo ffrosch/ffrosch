@@ -15,8 +15,11 @@
   </a>
 
 ---
-  
-📖 `curl -X POST https://florianfrosch.de/api/cv -H 'Content-Type: text/plain'`
+
+```bash
+# 📖 TODO
+curl -X POST https://florianfrosch.de/api/cv -H 'Content-Type: text/plain'
+```
 
 ```yaml
 name: Florian Frosch
