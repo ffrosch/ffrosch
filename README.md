@@ -91,7 +91,7 @@ hobbies: ["Climbing", "Alpinism", "Skitouring", "Running", "Mountainbiking",
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ffrosch&count_private=true&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ffrosch&theme=gruvbox)
 
-[![Stackoverflow Stats](https://so-stats.vercel.app/api?user=9152905)](https://github.com/kurt-liao/so-stats)
+[![Stackoverflow Stats](https://so-stats.vercel.app/api?user=9152905)](https://stackoverflow.com/users/9152905/ffrosch)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ffrosch?ext=heatmap)](https://leetcode.com/ffrosch)
 
