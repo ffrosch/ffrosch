@@ -5,7 +5,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/9152905/ffrosch">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg" width="48" alt="Stackoverflow" title="Stackoverflow" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="48" alt="Stackoverflow" title="Stackoverflow" />
   </a>
   <a href="https://stackexchange.com/users/10019110/ffrosch">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" width="48" alt="Stackexchange" title="Stackexchange" />
