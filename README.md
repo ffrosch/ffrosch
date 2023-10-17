@@ -5,7 +5,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" title="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/9152905/ffrosch">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="48" alt="Stackoverflow" title="Stackoverflow" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg" width="48" alt="Stackoverflow" title="Stackoverflow" />
+  </a>
+  <a href="https://stackexchange.com/users/10019110/ffrosch">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" width="48" alt="Stackexchange" title="Stackexchange" />
   </a>
   <a href="https://florianfrosch.de">
     <img src="https://github.com/tailwindlabs/heroicons/blob/master/optimized/24/solid/globe-alt.svg" width="48" alt="Homepage" title="Homepage" />
@@ -35,13 +38,25 @@ services: [
 ]
 
 education: [
-  "Udacity - Full Stack Web Development, Data Structures and Algorithms, Data Science",
+  "Codecademy Courses": [
+    "Front-End Engineer Career Path",
+    "Back-End Engineer Career Path",
+    "Full-Stack Engineer Career Path",
+    "React",
+    "CSS",
+    "Design"
+  ]
+  "Udacity Courses": [
+    "Full Stack Web Development",
+    "Data Structures and Algorithms",
+    "Intro to Machine Learning with Pytorch"
+  ]
   "Self-Taught Developer",
   "Master's in Geoecology (1.2)",
   "Bachelor's in Biology (1.3)",
 ]
 
-fields_of_interests: [
+fields_of_interest: [
   "Web Development",
   "Data Processing",
   "Data Analysis",
@@ -49,9 +64,9 @@ fields_of_interests: [
   "DevOps",
 ]
 
-currently_learning: ["Docker, Tailwind CSS"]
+currently_learning: ["React", "Advanced CSS", "Design Systems and Thinking"]
 
-hobbies: ["Climbing", "Alpinism", "Skitouring", "Running", "Mountainbiking",
+hobbies: ["Climbing", "Alpinism", "Skitouring", "Trail Running", "Mountainbiking",
           "Adventures", "Music (Singing, Guitar)"]
 ```
 
